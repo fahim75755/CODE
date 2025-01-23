@@ -1,3 +1,5 @@
 # CODE
 THIRD
-WRITER fahim
+WRITER fahim <br>
+here is a great way of thinking
+
